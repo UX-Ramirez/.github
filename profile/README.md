@@ -37,13 +37,36 @@ If you’re looking for a website design for your business or company, feel free
   </a>
 </div>
 
-<h2>🛒 Online Store:</h2>
+<h2>🛒 Online Store</h2>
 
 [![UX Ramirez Store](/store.jpg)](https://payhip.com/uxramirez)
 <p>I also have an Online Store on Payhip, were I'm selling my personal Figma & Bootstrap projects 💜</p>
+<br>
 
 <div align="center">
   <a href="https://www.uxramirez.com" target="_blank">
-    <img src="/uxRamirezLogo.png" alt="UX Ramirez" width="50%">
+    <img src="/uxRamirezLogo.png" alt="UX Ramirez" width="30%">
+  </a>
+  <br><br>
+  <a href="https://www.facebook.com/uxramirez/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
+  </a>
+  <a href="https://www.instagram.com/ux_ramirez/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="https://www.behance.net/ux_ramirez" target="_blank">
+    <img src="https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white" alt="Behance">
+  </a>
+  <a href="https://dribbble.com/ux_ramirez" target="_blank">
+    <img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" alt="Dribbble">
+  </a>
+  <a href="https://github.com/UX-Ramirez" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Github">
+  </a>
+  <a href="www.youtube.com/@ux_ramirez" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
+  </a>
+  <a href="https://www.linkedin.com/in/abril-ramirez-flores-71a26b275/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 <div>
