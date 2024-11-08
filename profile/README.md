@@ -6,8 +6,8 @@
 Graduated in Computer Systems Engineer, I'm starting my journey on web design and UI/UX world. Actually, I’m focused on landing page and web design.
 If you’re looking for a website design for your business or company, feel free to explore my services on my website.
 
-<div style="display: flex; justify-content: space-between;">
-  <div style="width: 48%;">
+<div>
+  <div style="width: 20%;">
     <h3>🛠️ Things that i'm working on:</h3>
     <ul>
     <li>Building Frontend Projects for my portfolio & Online Store</li>
@@ -34,11 +34,11 @@ If you’re looking for a website design for your business or company, feel free
     </p>
   </div>
   
-  <div style="width: 48%;">
+  <div style="align-items-top; justify-content-top">
     <h3>My Services</h3>
-    <img src="/service1.jpg" alt="Service 1">
-    <img src="/service2.jpg" alt="Service 2">
-    <img src="/service3.jpg" alt="Service 3">
-    <img src="/service4.jpg" alt="Service 4">
+    <img src="/service1.jpg" alt="Service 1" style="width: 49%;">
+    <img src="/service2.jpg" alt="Service 2" style="width: 49%;">
+    <img src="/service3.jpg" alt="Service 3" style="width: 49%;">
+    <img src="/service4.jpg" alt="Service 4" style="width: 49%;">
   </div>
 </div>
