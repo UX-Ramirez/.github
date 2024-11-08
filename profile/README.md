@@ -36,3 +36,14 @@ If you’re looking for a website design for your business or company, feel free
     <img src="/service4.jpg" alt="Service 4" width="49%">
   </a>
 </div>
+
+<h2>🛒 Online Store:</h2>
+
+[![UX Ramirez Store](/store.jpg)](https://payhip.com/uxramirez)
+<p>I also have an Online Store on Payhip, were I'm selling my personal Figma & Bootstrap projects 💜</p>
+
+<div align="center">
+  <a href="https://www.uxramirez.com" target="_blank">
+    <img src="/uxRamirezLogo.png" alt="UX Ramirez" width="50%">
+  </a>
+<div>
