@@ -21,27 +21,12 @@ If you’re looking for a website design for your business or company, feel free
 
 <h2>💻 My Services</h2>
 <div align="center">
-  <a href="https://www.behance.net/ux_ramirez/services/446581/Landing-Page-UI-UX-Design" target="_blank">
-    <img src="/service1.jpg" alt="Service 2" width="49%">
-  </a>
-  <a href="https://www.behance.net/ux_ramirez/services/446583/Complete-Website-UI-UX-Design" target="_blank">
-    <img src="/service2.jpg" alt="Service 2" width="49%">
-  </a>
+  <img src="/service1.png" alt="Service 2" width="49%">
+  <img src="/service2.png" alt="Service 2" width="49%">
 </div>
 <div align="center">
-  <a href="https://www.behance.net/ux_ramirez/services/446585/Design-Frontend-Development-Landing-Page" target="_blank">
-    <img src="/service3.jpg" alt="Service 3" width="49%">
-  </a>
-  <a href="https://www.behance.net/ux_ramirez/services/446587/Design-Frontend-Development-Complete-Website" target="_blank">
-    <img src="/service4.jpg" alt="Service 4" width="49%">
-  </a>
+  <img src="/service3.png" alt="Service 3" width="49%">
 </div>
-
-<h2>🛒 Online Store</h2>
-
-[![UX Ramirez Store](/store.jpg)](https://payhip.com/uxramirez)
-<p>I also have an Online Store on Payhip, were I'm selling my personal Figma & Bootstrap projects 💜</p>
-<br>
 
 <div align="center">
   <a href="https://www.uxramirez.com" target="_blank">
