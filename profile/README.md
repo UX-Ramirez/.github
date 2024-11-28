@@ -20,14 +20,16 @@ If you’re looking for a website design for your business or company, feel free
 
 
 <h2>💻 My Services</h2>
-<div align="center">
+Comming soon...
+<!-- <div align="center">
   <img src="/service1.png" alt="Service 2" width="49%">
   <img src="/service2.png" alt="Service 2" width="49%">
 </div>
 <div align="center">
   <img src="/service3.png" alt="Service 3" width="49%">
-</div>
+</div> -->
 
+<br>
 <div align="center">
   <a href="https://www.uxramirez.com" target="_blank">
     <img src="/uxRamirezLogo.png" alt="UX Ramirez" width="30%">
